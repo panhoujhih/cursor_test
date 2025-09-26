@@ -1,0 +1,22 @@
+{
+  "timeZone": "Asia/Taipei",
+  "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "Slides",
+        "serviceId": "slides",
+        "version": "v1"
+      },
+      {
+        "userSymbol": "Drive",
+        "serviceId": "drive",
+        "version": "v3"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "executionApi": {
+    "access": "ANYONE"
+  }
+}
